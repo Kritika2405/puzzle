@@ -26,8 +26,8 @@ html {
   
   .grid {
     display: grid;
-    grid-template-columns: 80px 80px 80px;
-    grid-template-rows: 80px 80px 80px;
+    grid-template-columns: 100px 100px 100px ;
+    grid-template-rows: 100px 100px 100px ;
     
     
   }
@@ -62,8 +62,8 @@ html {
 
   .grid2 {
     display: grid;
-    grid-template-columns: 80px 80px 80px 80px;
-    grid-template-rows: 80px 80px 80px 80px;
+    grid-template-columns: 100px 100px 100px 100px;
+    grid-template-rows: 100px 100px 100px 100px;
     
     
   }
